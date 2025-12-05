@@ -5,6 +5,15 @@
   "references": [
     {
       "path": "./apps/financial-lease"
+    },
+    {
+      "path": "./libs/types"
+    },
+    {
+      "path": "./libs/db"
+    },
+    {
+      "path": "./apps/fx-rate-service"
     }
   ]
 }
